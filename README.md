@@ -7,7 +7,6 @@ I'm Agada Fred from Nigeria and I'm a web developer, graphic designer also an En
 #### Designing and Programming
 ![Designing and Programming](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm Agada Fred from Nigeria and I'm a web developer, graphic designer also an Enthusiastic Health Informatics and Data Analytic Expert eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Clear understanding of patient management system and training in data analysis.
 
 Skills: Python, OPENMRS, NMRS, Patient Management Record System, Wordpress, SQL, MYSQL Server
 
